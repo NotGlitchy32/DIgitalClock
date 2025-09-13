@@ -29,7 +29,7 @@ body {
 
 #clock {
  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
- font-size: 16vw;
+ font-size: 12vw;
  text-shadow: 0 0 25px rgba(0, 0, 0, 0.8);
  color: white;
  animation: bounce-more 1s infinite alternate;
